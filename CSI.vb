@@ -7,6 +7,7 @@ Next i
 Range("n4").Value = Application.WorksheetFunction.AverageIfs(Range("e2:e12001"), Range("a2:a12001"), "=A")
 Range("o4").Value = Application.WorksheetFunction.AverageIfs(Range("e2:e12001"), Range("a2:a12001"), "=B")
 End Sub
+
 Private Sub generate_Click()
 Dim i As Integer
 For i = 2 To 1001
