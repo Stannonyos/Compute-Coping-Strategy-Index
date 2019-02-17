@@ -11,4 +11,4 @@ To calculate the index:
 Now, CSI is an emergency response indicator that is monitored. If the index is lower than it was during the baseline/ initial study then the food security situtation is alarming.
 A significant decline will need a quick response.
 
-I have generated data on overall use of coping strategies in two counties i.e. A & B and made comparison on which of the two counties has the highest index- this is hypothetical and the data generate is random.
+I have generated data on overall use of coping strategies in two counties i.e. A & B and made comparison on which of the two counties has the highest index- this is hypothetical and the data generated is random.
