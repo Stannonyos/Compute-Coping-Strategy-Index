@@ -1,6 +1,6 @@
 # Coping Strategy Index
 
-CSI isa food and nutrition proxy indicator for access to food. To come up with the indicator, you ask a series of questions on what a household do if they do not have adequate food.
+CSI is a food and nutrition proxy indicator for access to food. To come up with the indicator, you ask a series of questions on what a household do if they do not have adequate food.
 CSI measure frequency and severity of coping behaviours. To come up with the coping behaviours and severity score, you can do exploratory research before the main survey.
 
 To calculate the index:
